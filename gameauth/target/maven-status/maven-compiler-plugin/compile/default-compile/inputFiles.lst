@@ -1,0 +1,11 @@
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\controller\GameUserRESTController.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\representations\GameUserInfo.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\dao\GameUserDB.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\controller\RESTClientController.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameUser.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameAuthenticator.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameAuthorizer.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\GameAuthApplication.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\GameAuthConfiguration.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\healthcheck\AppHealthCheck.java
+D:\Joshua local\Programming\Java\CS230\gameauth\src\main\java\com\gamingroom\gameauth\healthcheck\HealthCheckController.java
