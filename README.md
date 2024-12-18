@@ -1,7 +1,7 @@
 # Draw It or Lose It
 
-  The Gaming Room is a company that developed a game called Draw It or Lose it. The need consultation on turning their game 
-into a a web-based version of the gaming app. The require one instance to control the environment and not allow any other 
+  The Gaming Room is a company that developed a game called Draw It or Lose it. They need consultation on turning their game 
+into a a web-based version of the gaming app. The Gaming Room require one instance to control the environment and not allow any other 
 instances to be created. Draw It or Lose It requires storage and retrieval of several hundred stock images and scalability 
 for their game as a RESTful api. 
 
